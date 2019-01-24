@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "crdts": "~0.1.2",
-    "orbit-db-store": "github:orbitdb/orbit-db-store"
+    "orbit-db-store": "github:shamb0t/orbit-db-store#feat/new-ipfs-log"
   }
 }
